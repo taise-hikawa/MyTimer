@@ -15,6 +15,7 @@
 		D31E4B1324A2502600ABAC1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D31E4B1124A2502600ABAC1D /* LaunchScreen.storyboard */; };
 		D31E4B1E24A2502600ABAC1D /* MyTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31E4B1D24A2502600ABAC1D /* MyTimerTests.swift */; };
 		D31E4B2924A2502600ABAC1D /* MyTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31E4B2824A2502600ABAC1D /* MyTimerUITests.swift */; };
+		D31E4B3724A256A400ABAC1D /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31E4B3624A256A400ABAC1D /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D31E4B2424A2502600ABAC1D /* MyTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D31E4B2824A2502600ABAC1D /* MyTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTimerUITests.swift; sourceTree = "<group>"; };
 		D31E4B2A24A2502600ABAC1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D31E4B3624A256A400ABAC1D /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D31E4B0824A2502200ABAC1D /* SceneDelegate.swift */,
 				D31E4B0A24A2502200ABAC1D /* ViewController.swift */,
 				D31E4B0C24A2502200ABAC1D /* Main.storyboard */,
+				D31E4B3624A256A400ABAC1D /* SettingViewController.swift */,
 				D31E4B0F24A2502600ABAC1D /* Assets.xcassets */,
 				D31E4B1124A2502600ABAC1D /* LaunchScreen.storyboard */,
 				D31E4B1424A2502600ABAC1D /* Info.plist */,
@@ -262,6 +265,7 @@
 				D31E4B0B24A2502200ABAC1D /* ViewController.swift in Sources */,
 				D31E4B0724A2502200ABAC1D /* AppDelegate.swift in Sources */,
 				D31E4B0924A2502200ABAC1D /* SceneDelegate.swift in Sources */,
+				D31E4B3724A256A400ABAC1D /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
